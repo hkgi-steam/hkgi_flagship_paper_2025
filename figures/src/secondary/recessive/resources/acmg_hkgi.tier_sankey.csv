@@ -1,0 +1,9 @@
+beginning,target,value,color,source_index,target_index
+A_tier_1,H_tier_1,5,"rgba(75, 130, 255, .2)",0,4
+A_tier_2,H_tier_2,6,"rgba(219, 68, 55, .2)",1,5
+A_tier_2,H_tier_3,5,"rgba(77, 233, 171, .2)",1,6
+A_tier_2,H_tier_4,25,"rgba(254, 229, 76, .2)",1,7
+A_tier_3,H_tier_3,7,"rgba(77, 233, 171, .2)",2,6
+A_tier_3,H_tier_4,57,"rgba(254, 229, 76, .2)",2,7
+A_tier_4,H_tier_2,13,"rgba(219, 68, 55, .2)",3,5
+A_tier_4,H_tier_3,25,"rgba(77, 233, 171, .2)",3,6
