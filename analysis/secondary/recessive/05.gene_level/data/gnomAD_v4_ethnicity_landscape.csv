@@ -1,0 +1,54 @@
+﻿Ancestry,Ancestry name,Ancestry_count,ethnicity,ethnicity perc,ethnicity count
+AMR,Admixed American,"30,019",Mexican,24.70%,"7,415"
+AMR,Admixed American,"30,019",Costa Rican,8.54%,"2,564"
+AMR,Admixed American,"30,019",Latino,8.52%,"2,558"
+AMR,Admixed American,"30,019",NA,53.86%,"16,168"
+AFR,African/African American (AFR),"37,545",Caribbean,9.49%,"3,563"
+AFR,African/African American (AFR),"37,545",African,7.36%,"2,763"
+AFR,African/African American (AFR),"37,545",Others,1.97%,740
+AFR,African/African American (AFR),"37,545",Black,1.66%,623
+AFR,African/African American (AFR),"37,545",NA,75.06%,"28,181"
+AMI,Amish,456,NA,100.00%,456
+ASJ,Ashkenazi Jewish,"14,804",British,10.23%,"1,514"
+ASJ,Ashkenazi Jewish,"14,804",Other white,5.57%,825
+ASJ,Ashkenazi Jewish,"14,804",White,4.67%,691
+ASJ,Ashkenazi Jewish,"14,804",Other,1.28%,189
+ASJ,Ashkenazi Jewish,"14,804",NA,0.78%,115
+EAS,East Asian,"22,448",Japanese,19.99%,"4,487"
+EAS,East Asian,"22,448",Chinese,5.90%,"1,324"
+EAS,East Asian,"22,448",Other,1.43%,321
+EAS,East Asian,"22,448",Asian,1.35%,303
+EAS,East Asian,"22,448",NA,67.94%,"15,251"
+FIN,Finnish,"32,026",Finnish,81.20%,"26,005"
+FIN,Finnish,"32,026",NA,18.31%,"5,864"
+MID,Middle eastern,"3,031",Other,16.07%,487
+MID,Middle eastern,"3,031",Bedouin,13.89%,421
+MID,Middle eastern,"3,031",Arab,5.39%,163
+MID,Middle eastern,"3,031",Persian,4.55%,138
+MID,Middle eastern,"3,031",Other white,4.06%,123
+MID,Middle eastern,"3,031",Other Asian,3.73%,113
+MID,Middle eastern,"3,031",Qatari,2.94%,89
+MID,Middle eastern,"3,031",White,2.73%,83
+MID,Middle eastern,"3,031",Palestinian,1.09%,33
+MID,Middle eastern,"3,031",French Canadian,1.06%,32
+MID,Middle eastern,"3,031",NA,38.68%,"1,172"
+NFE,Non-Finnish European,"590,031",British,60.63%,"357,736"
+NFE,Non-Finnish European,"590,031",Other white,2.02%,"11,919"
+NFE,Non-Finnish European,"590,031",White,1.87%,"11,039"
+NFE,Non-Finnish European,"590,031",Irish,1.50%,"8,850"
+NFE,Non-Finnish European,"590,031",NA,32.40%,"191,170"
+RMI,Remaining individuals,"31,256",British,21.79%,"6,811"
+RMI,Remaining individuals,"31,256",Irish,6.45%,"2,016"
+RMI,Remaining individuals,"31,256",Other,3.33%,"1,041"
+RMI,Remaining individuals,"31,256",Other white,3.23%,"1,010"
+RMI,Remaining individuals,"31,256",White,3.13%,978
+RMI,Remaining individuals,"31,256",Finnish,2.61%,816
+RMI,Remaining individuals,"31,256",White and Asian,1.91%,597
+RMI,Remaining individuals,"31,256",Other Mixed,1.61%,503
+RMI,Remaining individuals,"31,256",Other Asian,1.38%,431
+RMI,Remaining individuals,"31,256",NA,48.26%,"15,084"
+SAS,South Asian,"45,546",South Asian,61.38%,"27,956"
+SAS,South Asian,"45,546",Indian,10.63%,"4,842"
+SAS,South Asian,"45,546",Pakistani,5.79%,"2,637"
+SAS,South Asian,"45,546",Other Asian,1.97%,897
+SAS,South Asian,"45,546",NA,16.47%,"7,501"

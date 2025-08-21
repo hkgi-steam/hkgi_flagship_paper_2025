@@ -1,0 +1,116 @@
+Drug,Prescription_count,Rank_in_2020,Remarks,actionable_phenotypes,Genes,Gene,PGx_FDA_label
+pantoprazole,713644,,Recommendations released in Aug 2020,"CYP2C19 ultrarapid metabolizer, CYP2C19 likely intermediate metabolizer, CYP2C19 intermediate metabolizer, CYP2C19 likely poor metabolizer, CYP2C19 poor metabolizer",CYP2C19,CYP2C19,['Actionable PGx']
+atorvastatin,604106,,Recommendations released in 2022,"SLCO1B1 Decreased Frunction, SLCO1B1 Possible Decreased Function, SLCO1B1 Poor Function",CYP3A4CYP3A5HMGCRSLCO1B1APOECETPCOQ2KIF6LDLRLPA,SLCO1B1,[nan]
+simvastatin,456418,1,,"SLCO1B1 Decreased Frunction, SLCO1B1 Possible Decreased Function, SLCO1B1 Poor Function",CYP3A4CYP3A5ABCB1SLCO1B1CETPHMGCRLPA,SLCO1B1,[nan]
+aspirin,385552,,No significance,-,CYP2C9HLA-DPB1G6PDGP1BALTC4SPTGS1,,
+diclofenac,297251,,No significance,-,CYP2C8CYP2C9,,
+tramadol,289634,,Recommendations released in Dec 2020,"UM (ultrarapid metabolizer), IM (intermediate metabolizer), PM (poor metabolizer)",COMTCYP2D6OPRM1,CYP2D6,['Actionable PGx']
+ibuprofen,256129,3,,"CYP2C9 Intermediate Metabolizer (AS=1), CYP2C9 Poor Metabolizer",CYP2C8CYP2C9,CYP2C9,[nan]
+metoprolol,210995,,Recommendations released in 2024,PM (poor metabolizer),ADRA2CADRB1CYP2D6GRK4GRK5,,
+gliclazide,203591,,No significance,-,G6PD,,
+rosuvastatin,133880,,Recommendations released in 2022,"SLCO1B1 Decreased Frunction, SLCO1B1 Possible Decreased Function, SLCO1B1 Poor Function, ABCG Poor Function",ABCG2CYP3A4CYP3A5HMGCRSLCO1B1COQ2LPA,"ABCG2,SLCO1B1","[nan, 'Actionable PGx']"
+atenolol,122222,,No significance,-,ADRA2CADRB1GRK4GRK5,,
+naproxen,76819,,No significance,-,CYP2C9,,
+bisoprolol,62944,,No significance,-,ADRA2CADRB1CYP2D6GRK4GRK5,,
+esomeprazole,61161,,No significance,-,CYP2C19,,
+allopurinol,61063,4,,increased risk (HLA-B),HLA-AHLA-CHLA-B,HLA-B,['Testing Recommended']
+sertraline,56094,7,,"CYP2C19 likely intermediate metabolizer, CYP2C19 intermediate metabolizer, CYP2C19 likely poor metabolizer, CYP2C19 poor metabolizer",CYP2B6CYP2C19CYP2D6HTR2AGRIK4SLC6A4,"CYP2C19,CYP2B6","[nan, nan]"
+clopidogrel,55619,2,,"CYP2C19 likely intermediate metabolizer, CYP2C19 intermediate metabolizer, CYP2C19 likely poor metabolizer, CYP2C19 poor metabolizer",CYP2C19CES1,CYP2C19,['Actionable PGx']
+propranolol,55286,,No significance,-,ADRA2CADRB1ADRB2CYP2D6GRK4GRK5,,
+quetiapine,53399,,"CYP3A4, not in CPIC",CYP3A4 Poor Metabolizer,MC4R,,
+lansoprazole,45825,,Recommendations released in Aug 2020,"CYP2C19 ultrarapid metabolizer, CYP2C19 likely intermediate metabolizer, CYP2C19_intermediate_metabolizer, CYP2C19 likely poor metabolizer, CYP2C19 poor metabolizer",CYP2C19,CYP2C19,[nan]
+neomycin,44572,,Recommendations released in 2021,increased risk of aminoglycoside-induced hearing loss (MT-RNR1),MT-RNR1,,
+phenazopyridine,41303,,Recommendations released in Aug 2022,"G6PD Deficient, G6PD Deficient with CNSHA",G6PD,,
+glimepiride,39379,,No significance,-,G6PD,,
+celecoxib,36067,15,,"CYP2C9 Intermediate Metabolizer (AS=1), CYP2C9 Poor Metabolizer",CYP2C9,CYP2C9,['Actionable PGx']
+citalopram,34101,10,,"CYP2C19 Ultrarapid Metabolizer, CYP2C19 Rapid Metabolizer, CYP2C19 likely intermediate metabolizer, CYP2C19 intermediate metabolizer, CYP2C19 likely poor metabolizer, CYP2C19 poor metabolizer",CYP2C19CYP2D6COMTGRIK4HTR2ASLC6A4FKBP5,CYP2C19,['Actionable PGx']
+ondansetron,29783,16,,UM (ultrarapid metabolizer),CYP2D6ABCB1,CYP2D6,['Informative PGx']
+morphine,28539,,Recommendations released in Dec 2020,"UM (ultrarapid metabolizer), IM (intermediate metabolizer), PM (poor metabolizer)",COMTOPRM1,,
+fluoxetine,27497,,No significance,-,CYP2C19CYP2D6GRIK4HTR2ASLC6A4FKBP5,,
+ciprofloxacin,26832,,No significance,-,G6PD,,
+nitrofurantoin,25383,,No significance,-,G6PD,,
+desvenlafaxine,17764,,No significance,-,HTR2ASLC6A4,,
+carvedilol,16069,,No significance,-,ADRA2CADRB1ADRB2CYP2D6GRK4GRK5,,
+fentanyl,15966,,No significance,-,COMTABCB1OPRM1,,
+vitamin c,15948,,No significance,-,G6PD,,
+amitriptyline,15791,6,,"UM (ultrarapid metabolizer), IM (intermediate metabolizer), PM (poor metabolizer), CYP2C19 Ultrarapid Metabolizer, CYP2C19 Rapid Metabolizer, CYP2C19 likely poor metabolizer, CYP2C19 poor metabolizer",CYP2C19CYP2D6,"CYP2C19,CYP2D6","[nan, 'Actionable PGx']"
+warfarin,15724,5,,Increased risk of over-anticoagulation & CYP2C9 *2 & *3,CYP2C9CYP4F2VKORC1CALUGGCXPROCPROS1,"CYP2C9,CYP4F2,VKORC1","['Actionable PGx', nan, 'Actionable PGx']"
+gentamicin,14265,,,,MT-RNR1,MT-RNR1,['Actionable PGx']
+hydroxychloroquine,13405,,,,G6PD,,
+labetalol,12371,,,,ADRA2CADRB1ADRB2CYP2D6GRK4GRK5,,
+tacrolimus,12053,9,,,CYP3A5CYP3A4,CYP3A5,[nan]
+nicotine,11999,,,,COMTCHRNA3,,
+paroxetine,11578,17,,,CYP2C19CYP2D6HTR2AGRIK4SLC6A4FKBP5HTR1A,CYP2D6,[nan]
+moxifloxacin,11212,,,,G6PD,,
+indomethacin,10869,,,,CYP2C9,,
+phenytoin,9975,8,,,CYP2C9SCN1AHLA-B,"CYP2C9,HLA-B","['Actionable PGx', 'Actionable PGx']"
+tobramycin,8736,,,,MT-RNR1,MT-RNR1,['Actionable PGx']
+tamoxifen,8167,14,,,CYP2D6,CYP2D6,['Actionable PGx']
+oxycodone,8148,,,,COMTCYP2D6OPRM1,,
+venlafaxine,7938,,,,CYP2C19CYP2D6HTR2ASLC6A4GRIK4FKBP5,CYP2D6,['Actionable PGx']
+vortioxetine,7388,,,,CYP2C19CYP2D6HTR2ASLC6A4,CYP2D6,['Actionable PGx']
+dexlansoprazole,7157,,,,CYP2C19,CYP2C19,['Actionable PGx']
+carbamazepine,7114,12,,,SCN1AHLA-AHLA-BEPHX1,"HLA-A,HLA-B","['Actionable PGx', 'Testing Required']"
+codeine (codeine phosphate),6888,20,,,#N/A,,
+mesalazine,6791,,,,G6PD,,
+azathioprine,6757,13,,,NUDT15TPMT,"NUDT15,TPMT","['Testing Recommended', 'Testing Recommended']"
+capecitabine,6235,,,,DPYDTYMS,DPYD,['Testing Recommended']
+glipizide,5663,,,,G6PD,,
+duloxetine,5377,,,,CYP2C19CYP2D6HTR2ASLC6A4,,
+rabeprazole,3497,,,,CYP2C19,,
+ethambutol,2991,,,,#N/A,,
+sotalol,2501,,,,ADRA2CADRB1ADRB2GRK4GRK5,,
+pyrazinamide,2422,,,,#N/A,,
+atomoxetine,2358,,Adults & pediatrics,,CYP2D6,CYP2D6,['Actionable PGx']
+nortriptyline,2012,18,"TCA, higher confidence",,CYP2D6,CYP2D6,['Actionable PGx']
+fluorouracil,1962,,Clear but low freq in actionable phenotype,,DPYDGSTP1NQO1TYMSUMPS,DPYD,['Actionable PGx']
+doxorubicin,1763,,,,SLC28A3G6PDCBR3HAS3NQO1,,
+methadone,1662,,,,COMTCYP2B6CYP2D6OPRM1,,
+imipramine,1412,19,"TCA, moderate confidence",,CYP2C19CYP2D6,"CYP2C19,CYP2D6","[nan, 'Actionable PGx']"
+oxcarbazepine,1082,,,,HLA-AHLA-B,HLA-B,['Testing Recommended']
+buprenorphine,884,,,,COMTOPRM1,,
+clomipramine,869,,"TCA, moderate confidence",,CYP2C19CYP2D6,"CYP2C19,CYP2D6","[nan, 'Actionable PGx']"
+probenecid,627,,,,G6PD,,
+betaxolol,568,,,,ADRA2CADRB1CYP2D6GRK4GRK5,,
+rasburicase,446,,,,G6PD,G6PD,['Testing Required']
+sulfamethoxazole / trimethoprim,427,,,,NAT2G6PD,,
+voriconazole,424,,,,CYP2C19,CYP2C19,['Actionable PGx']
+peginterferon alfa-2a,317,,,,IFNL3IFNL4,"IFNL3,IFNL4","[nan, nan]"
+mercaptopurine,279,,,,NUDT15TPMT,"NUDT15,TPMT","['Testing Recommended', 'Testing Recommended']"
+quinine,276,,,,G6PDCYP2D6,,
+piroxicam,265,,,,CYP2C9,CYP2C9,['Actionable PGx']
+fluvoxamine,234,,,,CYP2C19CYP2D6HTR2ASLC6A4,CYP2D6,['Actionable PGx']
+dapsone,218,,,,G6PDHLA-B,,
+nadolol,189,,,,ADRA2CADRB1ADRB2GRK4GRK5,,
+rifabutin,146,,,,#N/A,,
+naltrexone,134,,,,COMTOPRM1,,
+esmolol,110,,,,ADRA2CADRB1GRK4GRK5,,
+efavirenz,109,,,,CYP2B6,CYP2B6,['Actionable PGx']
+trametinib,94,,,,G6PD,,
+primaquine (phosphate),90,,,,G6PD,,
+dabrafenib,75,,,,G6PD,,
+abacavir,64,,,,HLA-B,HLA-B,['Testing Required']
+milnacipran,55,,,,HTR2ASLC6A4,,
+remifentanil,46,,,,COMTOPRM1,,
+streptomycin,42,,,,MT-RNR1,MT-RNR1,['Actionable PGx']
+ribavirin,41,,,,VDR,,
+cycloserine,37,,,,#N/A,,
+thioguanine,29,,,,NUDT15TPMT,,
+atazanavir,16,,,,UGT1A1,UGT1A1,[nan]
+chloroquine (phosphate),3,,,,#N/A,,
+delamanid,3,,,,#N/A,,
+sodium nitrite,3,,,,G6PD,,
+rifapentine,2,,,,#N/A,,
+sevoflurane,2,,,,CACNA1SRYR1,"CACNA1S,RYR1","['Actionable PGx', 'Actionable PGx']"
+doxepin,1,,,,CYP2C19CYP2D6,"CYP2C19,CYP2D6","['Actionable PGx', 'Actionable PGx']"
+amikacin,0,,,,MT-RNR1,MT-RNR1,['Actionable PGx']
+aminosalicylic acid,0,,,,G6PD,,
+chloramphenicol,0,,,,G6PD,,
+desflurane,0,,,,CACNA1SRYR1,"CACNA1S,RYR1","['Actionable PGx', 'Actionable PGx']"
+dimercaprol,0,,,,G6PD,,
+escitalopram,0,11,,,CYP2C19CYP2D6COMTGRIK4HTR2ASLC6A4,CYP2C19,['Actionable PGx']
+isoflurane,0,,,,CACNA1SRYR1,"CACNA1S,RYR1","['Actionable PGx', 'Actionable PGx']"
+Isoniazid,0,,,,NAT2,,
+kanamycin,0,,,,MT-RNR1,MT-RNR1,[nan]
+peginterferon alfa-2b,0,,,,IFNL3IFNL4VDR,"IFNL3,IFNL4","['Actionable PGx', nan]"
+trimipramine,0,,,,CYP2C19CYP2D6,"CYP2C19,CYP2D6","[nan, 'Actionable PGx']"
