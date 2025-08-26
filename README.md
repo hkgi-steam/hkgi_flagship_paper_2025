@@ -34,8 +34,6 @@ Each folder section may contain these subfolders:
         1. `01a.genotype.aldy`, `01b.genotype.Cyrius`, `01c.genotype.HLA-HD`, `01d.genotype.manual` - PGx genotyping with different callers.
         1. `02.consolidate_genotypes` - Consolidating results from the above PGx callers.
         1. `03.eval_prescription` - Calculate statistics for secondary - PGx in unrelated Chinese.
-1. `reference` - reference files used across sections.
-    1. `cohort_founder_list.2024-11-12.csv` - Participant IDs from the HKGP Chinese cohort.
 
 
 ## Figures
