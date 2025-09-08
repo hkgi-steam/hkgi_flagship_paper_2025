@@ -1,0 +1,124 @@
+"CYP2D6": 
+    "NM (normal metabolizer)": "Normal"
+    "IM (intermediate metabolizer)": "Actionable"
+    "Indeterminate": "NA"
+    "UM (ultrarapid metabolizer)": "Actionable"
+    "PM (poor metabolizer)": "Actionable"
+"HLA-B": 
+    "Non_carrier_of_risk_alleles": "Normal"
+    "Carrier_of_risk_alleles": "Actionable"
+"HLA-A": 
+    "Non_carrier_of_risk_alleles": "Normal"
+    "Carrier_of_risk_alleles": "Actionable"
+"NUDT15": 
+    "NUDT15 Normal Metabolizer": "Normal"
+    "NUDT15 Intermediate Metabolizer": "Actionable"
+    "NUDT15 Indeterminate": "NA"
+    "NUDT15 Poor Metabolizer": "Actionable"
+    "NUDT15 Possible Intermediate Metabolizer": "Actionable"
+"VKORC1": 
+    "Increased risk of over-anticoagulation": "Actionable"
+    "Normal risk": "Normal"
+"SLCO1B1": 
+    "SLCO1B1 Normal Function": "Normal"
+    "SLCO1B1 Decreased Function": "Actionable"
+    "SLCO1B1 Poor Function": "Actionable"
+    "SLCO1B1 Indeterminate": "NA"
+    "SLCO1B1 Possible Decreased Function": "Actionable"
+    "SLCO1B1 Increased Function": "Normal"
+"G6PD": 
+    "G6PD Normal": "Normal"
+    "G6PD Variable": "Actionable"
+    "G6PD Deficient": "Actionable"
+    "G6PD Deficient with CNSHA": "Actionable"
+"CYP2B6": 
+    "CYP2B6 Ultrarapid Metabolizer": "Normal"
+    "CYP2B6 Rapid Metabolizer": "Normal"
+    "CYP2B6 Normal Metabolizer": "Normal"
+    "CYP2B6 Intermediate Metabolizer": "Actionable"
+    "CYP2B6 Poor Metabolizer": "Actionable"
+    "CYP2B6 Indeterminate": "NA"
+"UGT1A1": 
+    "UGT1A1 Normal Metabolizer": "Normal"
+    "UGT1A1 Intermediate Metabolizer": "Normal"
+    "UGT1A1 Poor Metabolizer": "Actionable"
+"CFTR": 
+    "Non response to ivacaftor if homozygous": "Normal"
+    "Responsive": "Normal"
+"CYP4F2": 
+    "Normal function": "Normal"
+    "Decreased function": "Actionable"
+"CYP3A5": 
+    "CYP3A5 Normal Metabolizer": "Actionable"
+    "CYP3A5 Possible Intermediate Metabolizer": "Actionable"
+    "CYP3A5 Intermediate Metabolizer": "Actionable"
+    "CYP3A5 Poor Metabolizer": "Normal"
+    "CYP3A5 Indeterminate": "NA"
+"CYP2C9": 
+    "CYP2C9 Normal Metabolizer": "Normal"
+    "CYP2C9 Intermediate Metabolizer": "Actionable"
+    "CYP2C9 Poor Metabolizer": "Actionable"
+    "CYP2C9 Indeterminate": "NA"
+"CYP3A4": 
+    "CYP3A4 Normal Metabolizer": "Normal"
+    "CYP3A4 Intermediate Metabolizer": "Normal"
+    "CYP3A4 Poor Metabolizer": "Actionable"
+"TPMT": 
+    "TPMT Normal Metabolizer": "Normal"
+    "TPMT Possible Intermediate Metabolizer": "Actionable"
+    "TPMT Intermediate Metabolizer": "Actionable"
+    "TPMT Poor Metabolizer": "Actionable"
+    "TPMT Indeterminate": "NA"
+"IFNL3": 
+    "Favourable response": "Normal"
+    "Unfavourable response": "Actionable"
+"DPYD": 
+    "DPYD Normal Metabolizer": "Normal"
+    "DPYD Intermediate Metabolizer": "Actionable"
+"CYP2C19": 
+    "CYP2C19 Ultrarapid Metabolizer": "Actionable"
+    "CYP2C19 Rapid Metabolizer": "Actionable"
+    "CYP2C19 Normal Metabolizer": "Normal"
+    "CYP2C19 Likely Intermediate Metabolizer": "Actionable"
+    "CYP2C19 Intermediate Metabolizer": "Actionable"
+    "CYP2C19 Poor Metabolizer": "Actionable"
+    "CYP2C19 Indeterminate": "NA"
+"MT-RNR1": 
+    "increased risk of aminoglycoside-induced hearing loss": "Actionable"
+    "normal risk of aminoglycoside-induced hearing loss": "Normal"
+    "uncertain risk of aminoglycoside-induced hearing loss": "NA"
+"RYR1": 
+    "RYR1 Malignant Hyperthermia Susceptibility": "Actionable"
+    "RYR1 Uncertain Susceptibility": "Normal"
+"CACNA1S": 
+    "CACNA1S Uncertain Susceptibility": "Normal"
+"ABCG2": 
+    "ABCG2 Decreased Function": "Normal"
+    "ABCG2 Normal Function": "Normal"
+    "ABCG2 Poor Function": "Actionable"
+"NAT2": 
+    "Indeterminate": "NA"
+    "Increased risk of developing toxic liver disease when treated with isoniazid regimens": "Actionable"
+"CYP2A6":
+    "Decreased metabolism of nicotine": "Actionable"
+    "Normal metabolism of nicotine": "Normal"
+    "Indeterminate": "NA"
+"VKORC1_rs2359612":
+    "May require decreased dose of warfarin": "Actionable"
+    "May require increased dose of warfarin": "Normal"
+"VKORC1_rs7294":
+    "May require lower dose of warfarin": "Normal"
+    "May require higher dose of warfarin": "Actionable"
+"VKORC1_rs8050894":
+    "May require a lower dose of warfarin": "Actionable"
+    "May require a higher dose of warfarin": "Normal"
+"VKORC1_rs9934438":
+    "May require lower dose of warfarin": "Actionable"
+    "May require higher dose of warfarin": "Normal"
+"IFNL3_rs8099917":
+    "Increased response (higher SVR) to peginterferon alfa and ribavirin therapy": "Normal"
+    "Decreased response (lower SVR) to peginterferon alfa and ribavirin therapy": "Actionable"
+"IFNL4_rs11322783":
+    "Improved response (including sustained virological response (svr)) to pegIFN-alpha/ribavirin": "Normal"
+    "Decreased response (including sustained virological response (svr)) to pegIFN-alpha/ribavirin": "Actionable"
+    

@@ -1,0 +1,38 @@
+#!/bin/bash
+
+#Configuration
+vcf_dir="/mnt/data/patient_data/volume1/genomic_data/latest"
+bed_file="dominant_LoF_genes.bed"
+output_dir="../results"
+refseq_csv_path="refseq_original.tsv"
+sample_id=$1
+
+manta_vcf=$(find "$vcf_dir/$sample_id"/*/ -name "${sample_id}*.manta.vcf.gz" | head -n 1)
+echo $manta_vcf
+cnvkit_vcf=$(find "$vcf_dir/$sample_id"/*/ -name "${sample_id}*.cnv.vcf.gz" | head -n 1)
+echo $cnvkit_vcf
+
+if ls "${output_dir}/${sample_id}"*sv.tsv 1> /dev/null 2>&1; then
+    echo "SV file for patient ID ${sample_id} already exists. Skipping sample."
+    exit 0
+fi
+
+if [ -z "$manta_vcf" ]; then
+    echo "VCF file for patient ID $sample_id not found! Skipping to next sample."
+    exit 0
+fi
+
+subset_manta_vcf="$output_dir/${sample_id}_carrier_manta.vcf.gz"
+subset_cnvkit_vcf="$output_dir/${sample_id}_carrier_cnv.vcf.gz"
+
+apptainer run /mnt/bioinformatics_tools/tools/bcftools-1.18.sif bcftools view -R "$bed_file" "$manta_vcf" -Oz -o "$subset_manta_vcf"
+apptainer run /mnt/bioinformatics_tools/tools/bcftools-1.18.sif bcftools view -R "$bed_file" "$cnvkit_vcf" -Oz -o "$subset_cnvkit_vcf"
+
+intermediate_output_path="${output_dir}/${sample_id}.filtered.tsv"
+python3 ./sv_insdeldup.py "$subset_manta_vcf" "$sample_id" "$subset_cnvkit_vcf" "$intermediate_output_path"
+
+final_output_path="${output_dir}/${sample_id}_final.sv.tsv"
+python3 ./validation_with_cnvkit.py "$intermediate_output_path" "$cnvkit_vcf" "$final_output_path"
+
+
+
